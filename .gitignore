@@ -10,15 +10,6 @@ build/
 venv/
 env/
 
-# Audio files (no subir canciones al repo)
-*.mp3
-*.wav
-*.flac
-*.ogg
-*.m4a
-
-# LRC generados
-*.lrc
 
 # whisper.cpp build
 whisper.cpp/build/
